@@ -1,0 +1,82 @@
+table {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    border-style:solid;
+    border-color: #000000;
+    width: 100%;
+    }
+
+td, th {
+    border: 3px solid #000000;
+    text-align: center;
+    padding: 20px;
+    }
+tr:nth-child(odd) {
+    background-color: #ffff00;
+    }
+
+tr:first-child {
+        font-family:cursive;
+        background-color: #00ffff;
+    }
+
+tr:nth-child(even) {
+    background-color: #8a2be2;
+    }
+
+
+td:hover {
+        background-color: #ffe4c4;
+    }
+
+input[id^="button_"] {
+        border-radius: 10px;
+        border-style:hidden;
+        padding: 10px 20px;
+        background-color: #00ffff;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+input[id^="text_"] {
+        border-radius: 10px;
+    }
+
+a:link, a:visited {
+        background-color: #00ffff;
+        border-radius: 10px;
+        border-style:hidden;
+        color: black;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+a:hover, a:active {
+        background-color: #ff0000;
+        }
+
+#button_1:hover {
+    background-color: #ff0000   ;
+    cursor: pointer;
+    
+}
+
+input[id^="chkbx_"]:hover{
+    cursor: pointer;
+}
+
+#email_1:invalid {
+    border-color: #dc143c;
+}
+
+#email_1:valid {
+    border-color:#7fff00;
+}
+
+.container {
+    background-color: #8a2be2;
+}
+
+
+input[type="checkbox"]:checked{
+    box-shadow: 0 0 0 3px #ffa500;
+}

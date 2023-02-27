@@ -1,0 +1,40 @@
+p {
+    color: blue;
+    background-color: red;
+}
+
+h1 {
+    
+    color: blueviolet;
+}
+
+* {
+    text-align: center;
+    background-color: aqua;
+}
+
+#name, #psw, #num, #mail {
+    background-color: black;
+}
+
+input[checked] {
+    height: 25px;
+    width: 25px;
+}
+
+input[name= "text1"] {
+    background-color: black;
+    border-radius: 10px;
+    border-color: red;
+}
+
+input[random_atributo^= "obl_"] {
+    background-color: purple;
+    border-radius: 10px;
+    border-color: yellow;
+}
+
+
+
+
+

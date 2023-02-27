@@ -1,0 +1,60 @@
+* {
+    background-color: white;
+}
+
+input[id ="campo2"] {
+    background-color: white;
+    border-radius: 10px;
+    border-color: purple;
+}
+
+ul.elementos {
+    list-style-type: none;
+  }
+
+h1 {
+    color: orangered;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#buttonyeah {
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#campo3 {
+    padding: 20px;
+    border-color: blue;
+}
+
+
+#campo1 {
+    border-color:red;
+}
+#espaciado {
+    letter-spacing: 30px;
+    font-size: large;
+}
+
+#elemento2 {
+    font-style:bold;
+    text-align: center;
+}
+
+#elemento3 {
+    font-size: 50px;
+    font-style: italic;
+}
+
+#elemento5 {
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+#elemento6 {
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
