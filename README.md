@@ -1,2 +1,2 @@
 # WebDev
-Here i will upload all of my files of practices and work of my Web Development class of the 6th semester of University. 
+Here i will upload all of my works in-lecture and the homeworks are also inside of some of this sesions...
