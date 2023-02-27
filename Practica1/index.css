@@ -1,0 +1,49 @@
+.registra_aqui{
+  cursor: pointer;
+}
+
+#cards{
+  padding: 0 6px;
+  float: center;
+  width: 75%;
+  margin-left: 200px;
+  height: 20%;
+}
+
+#cards2{
+  padding: 0 6px;
+  float: center;
+  width: 75%;
+  margin-left: 200px;
+  height: 20%;
+  
+
+}
+
+* {
+  height: auto;
+}
+
+#page_nav{
+  justify-content: center;
+  margin-top: 50%;
+}
+
+
+#carrito_cantidad {
+  background-color: black;
+  color: white;
+}
+
+
+#border_carrito {
+  border-radius: 10px;
+  border-style: solid;
+  border-color:black;
+}
+
+#img1_carrito {
+  height: auto;
+}
+
+
